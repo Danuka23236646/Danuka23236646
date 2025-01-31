@@ -1,4 +1,6 @@
-<img src = "11.jpg" width = "250px">
+<br>
+<img src = "11.jpg" width = "300px" >
+<br><br>
 <h1 align="center">Hi 👋, I'm Danuka Tharaka </h1>
 <h3 align="center">A passionate student from SriLanka</h3>
 
