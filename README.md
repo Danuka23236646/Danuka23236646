@@ -1,4 +1,4 @@
-![image alt](image_url)
+![image alt](https://github.com/Danuka23236646/Danuka23236646/blob/4ff579f4b1b80bedcc1ba51af68ec524caabb25d/11.jpg )
 <h1 align="center">Hi 👋, I'm Danuka Tharaka Barnett</h1>
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
 
